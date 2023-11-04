@@ -3,7 +3,7 @@ import { TranslationContext } from "../../../provider/TranslationProvider";
 import { useContext } from "react";
 import { Pagination, ThemeProvider, createTheme } from "@mui/material";
 import { ThemeContext } from "../../../provider/ThemeProvider";
-
+import { Calendar } from "@fluentui/react-calendar-compat"
 
 
 const Timesheet = () => {
@@ -15,6 +15,7 @@ const Timesheet = () => {
     }
   })
   return <div className="componentMainBody">
+    <Calendar/>
     <Card style={{width: "180px", maxHeight: "80px", margin: "1rem"}} floatingAction={
             <Checkbox  />
           }>

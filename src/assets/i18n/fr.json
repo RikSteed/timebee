@@ -1,0 +1,32 @@
+{
+  "APP": {
+    "HELLO": "Salut"
+  },
+  "DASHBOARD": {
+    "PAGES": {
+      "ABOUT": {
+        "HELLO": "Salut"
+      }
+    }
+  },
+  "DASHBOARDBAR": {
+    "PHRASES": [
+      "On ne peut pas trouver la paix en évitant la vie. - Virginia Woolf",
+      "La liberté, c'est ce que vous faites avec ce qui vous a été fait. - Jean-Paul Sartre",
+      "Où il y a de l'amour, il y a de la vie. - Mahatma Gandhi",
+      "Sois toi-même. - Oscar Wilde"
+    ]
+  },
+  "DRAWER": {
+    "AVAILABLE": "Disponible",
+    "DOWNLOAD": "Télécharger",
+    "HELP": "Aide",
+    "MYTEAM": "Mon Équipe",
+    "PAYSLIP": "Fiche de Paie",
+    "REIMBURSEMENT": "Remboursement",
+    "TECHNICALSUPPORT": "Support Technique",
+    "TIMESHEET": "Feuille de Temps",
+    "TOOLS": "Outils",
+    "UPLOADDOCUMENTS": "Télécharger des Documents"
+  }
+}

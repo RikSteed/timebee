@@ -1,0 +1,32 @@
+{
+  "APP": {
+    "HELLO": "Ciao"
+  },
+  "DASHBOARD": {
+    "PAGES": {
+      "ABOUT": {
+        "HELLO": "Ciao"
+      }
+    }
+  },
+  "DASHBOARDBAR": {
+    "PHRASES": [
+      "Non si può trovare la pace evitando la vita. - Virginia Woolf",
+      "La libertà è ciò che fai con ciò che ti è stato fatto. - Jean-Paul Sartre",
+      "Dove c'è amore, c'è vita. - Mahatma Gandhi",
+      "Sii te stesso. - Oscar Wilde"
+    ]
+  },
+  "DRAWER": {
+    "AVAILABLE": "Disponibile",
+    "DOWNLOAD": "Scarica",
+    "HELP": "Aiuto",
+    "MYTEAM": "Il mio Team",
+    "PAYSLIP": "Busta Paga",
+    "REIMBURSEMENT": "Rimborso",
+    "TECHNICALSUPPORT": "Supporto Tecnico",
+    "TIMESHEET": "Scheda Temporale",
+    "TOOLS": "Strumenti",
+    "UPLOADDOCUMENTS": "Carica Documenti"
+  }
+}

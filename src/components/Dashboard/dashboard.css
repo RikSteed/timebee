@@ -1,0 +1,72 @@
+.component {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.outlet{
+  width: -webkit-fill-available;
+  height: 100%;
+  margin: 1rem;
+}
+.dashboardbar{
+  margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: row;justify-content: space-between;
+  align-items: center
+}
+.dashboardbarItem{
+  margin: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.Typewriter{
+  display: flex;
+  align-items: center;
+}
+
+.flexEnd {
+  align-self: flex-end;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+.personaDrawer {
+  margin: 10%;
+  margin-left: 12px;
+}
+
+.menuItemDrawer {
+  max-width: unset !important;
+  min-height: 50px !important;
+  align-items: center !important;
+  padding-left: 4px !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  padding-right: 0 !important;
+  margin: 8px !important;
+}
+.menuItemDrawer:hover {
+  transition: 200ms !important;
+}
+
+.dividerDrawer {
+  margin: 0 !important;
+}
+
+.headerDrawer {
+  flex-direction: row !important;
+  padding: 16px 12px 0px 12px !important;
+  justify-content: center !important;
+}
+
+.toolbarDrawer {
+  padding: 12px 0px 12px 0px !important;
+}

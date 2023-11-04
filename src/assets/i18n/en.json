@@ -1,0 +1,32 @@
+{
+  "APP": {
+    "HELLO": "Hello"
+  },
+  "DASHBOARD": {
+    "PAGES": {
+      "ABOUT": {
+        "HELLO": "Hello"
+      }
+    }
+  },
+  "DASHBOARDBAR": {
+    "PHRASES": [
+      "You cannot find peace by avoiding life. - Virginia Woolf",
+      "Freedom is what you do with what has been done to you. - Jean-Paul Sartre",
+      "Where there is love, there is life. - Mahatma Gandhi",
+      "Be yourself. - Oscar Wilde"
+    ]
+  },
+  "DRAWER": {
+    "AVAILABLE": "Available",
+    "DOWNLOAD": "Download",
+    "HELP": "Help",
+    "MYTEAM": "My Team",
+    "PAYSLIP": "Payslip",
+    "REIMBURSEMENT": "Reimbursement",
+    "TECHNICALSUPPORT": "Technical Support",
+    "TIMESHEET": "Timesheet",
+    "TOOLS": "Tools",
+    "UPLOADDOCUMENTS": "Upload Documents"
+  }
+}

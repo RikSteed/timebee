@@ -1,0 +1,32 @@
+{
+  "APP": {
+    "HELLO": "こんにちは"
+  },
+  "DASHBOARD": {
+    "PAGES": {
+      "ABOUT": {
+        "HELLO": "こんにちは"
+      }
+    }
+  },
+  "DASHBOARDBAR": {
+    "PHRASES": [
+      "生活を避けて平和を見つけることはできません。- Virginia Woolf",
+      "自由とは、あなたに何がされたかをどうするかです。- Jean-Paul Sartre",
+      "愛があるところに、命がある。- Mahatma Gandhi",
+      "自分自身であれ。- Oscar Wilde"
+    ]
+  },
+  "DRAWER": {
+    "AVAILABLE": "利用可能",
+    "DOWNLOAD": "ダウンロード",
+    "HELP": "ヘルプ",
+    "MYTEAM": "マイチーム",
+    "PAYSLIP": "給与明細",
+    "REIMBURSEMENT": "払い戻し",
+    "TECHNICALSUPPORT": "テクニカルサポート",
+    "TIMESHEET": "タイムシート",
+    "TOOLS": "ツール",
+    "UPLOADDOCUMENTS": "ドキュメントをアップロード"
+  }
+}
